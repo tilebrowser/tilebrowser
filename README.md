@@ -14,12 +14,13 @@ This repository hosts **release binaries** and the **public issue tracker** only
 
 ## Download
 
-Get files from [Releases](https://github.com/tilebrowser/tilebrowser/releases/latest) (Windows x64; uses WebView2).
+Get files from [Releases](https://github.com/tilebrowser/tilebrowser/releases/latest) (Windows x64; uses WebView2). Choose whichever you prefer:
 
 | File | Use |
 | --- | --- |
-| `Tile Browser_*_x64_en-US.msi` | **Installer (MSI)** ? recommended |
-| `TileBrowser_*_x64_portable.zip` | **Portable** ? extract and run `TileBrowser.exe` |
+| `TileBrowser_*_x64_portable.zip` | **Portable** ? extract and run `TileBrowser.exe` (no install) |
+| `Tile Browser_*_x64_en-US.msi` | **Installer (MSI)** |
+| `Tile Browser_*_x64-setup.exe` | **Installer (NSIS)** |
 
 ## Quick start
 
