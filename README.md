@@ -18,7 +18,7 @@ Get files from [Releases](https://github.com/tilebrowser/tilebrowser/releases/la
 
 | File | Use |
 | --- | --- |
-| `Tile Browser_*_x64-setup.exe` | **Installer** (recommended) ? shortcuts and uninstall |
+| `Tile Browser_*_x64_en-US.msi` | **Installer (MSI)** ? recommended |
 | `TileBrowser_*_x64_portable.zip` | **Portable** ? extract and run `TileBrowser.exe` |
 
 ## Quick start

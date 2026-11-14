@@ -18,7 +18,7 @@ Windows 向けのデスクトップブラウザです。複数のサイトを**�
 
 | ファイル | 用途 |
 | --- | --- |
-| `Tile Browser_*_x64-setup.exe` | **インストーラ**（推奨）— ショートカット作成・アンインストール可 |
+| `Tile Browser_*_x64_en-US.msi` | **インストーラ（MSI）** — 推奨 |
 | `TileBrowser_*_x64_portable.zip` | **ポータブル** — 展開して `TileBrowser.exe` を実行 |
 
 ## ざっくり使い方
