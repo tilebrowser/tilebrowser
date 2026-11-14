@@ -14,8 +14,12 @@ This repository hosts **release binaries** and the **public issue tracker** only
 
 ## Download
 
-1. Get the latest installer (`.msi` / setup `.exe`) from [Releases](https://github.com/tilebrowser/tilebrowser/releases/latest).
-2. Install and launch (Windows; uses WebView2).
+Get files from [Releases](https://github.com/tilebrowser/tilebrowser/releases/latest) (Windows x64; uses WebView2).
+
+| File | Use |
+| --- | --- |
+| `Tile Browser_*_x64-setup.exe` | **Installer** (recommended) ? shortcuts and uninstall |
+| `TileBrowser_*_x64_portable.zip` | **Portable** ? extract and run `TileBrowser.exe` |
 
 ## Quick start
 

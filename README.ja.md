@@ -14,8 +14,12 @@ Windows 向けのデスクトップブラウザです。複数のサイトを**�
 
 ## ダウンロード
 
-1. [Releases](https://github.com/tilebrowser/tilebrowser/releases/latest) から最新のインストーラ（`.msi` / setup `.exe`）を入手します。
-2. インストール後に起動します（Windows、WebView2 利用）。
+[Releases](https://github.com/tilebrowser/tilebrowser/releases/latest) から入手します（Windows x64、WebView2 利用）。
+
+| ファイル | 用途 |
+| --- | --- |
+| `Tile Browser_*_x64-setup.exe` | **インストーラ**（推奨）— ショートカット作成・アンインストール可 |
+| `TileBrowser_*_x64_portable.zip` | **ポータブル** — 展開して `TileBrowser.exe` を実行 |
 
 ## ざっくり使い方
 
